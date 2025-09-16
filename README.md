@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+为了在网页端实现类似企业微信智慧表格的功能，我开始使用AICoding 帮助我从0开始构建一个网页。
+
+当前为1.0版本，仅能实现效果为跑动出来，但无实际的功能效果
+
+当前使用过3种AI帮助：通义千问、Claude Sonnet 3.5、GPT
+
 ## Getting Started
 
 First, run the development server:
